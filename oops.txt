@@ -1,0 +1,7 @@
+OOPS - Object Oriented Programming 
+
+Four main pillars of OOPS are
+    - Encapsulation
+    - Abstraction
+    - Inheritance
+    - Polymorphism
